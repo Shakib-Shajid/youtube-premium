@@ -1,4 +1,5 @@
 import Navbar from "../app/components/Navbar"
+import AdFree from "./components/AdFree";
 import Banner from "./components/Banner";
 import Offer from "./components/Offer";
 import Price from "./components/Price";
@@ -9,6 +10,7 @@ export default function Home() {
       <Banner />
       <Offer />
       <Price />
+      <AdFree />
     </>
   );
 }
