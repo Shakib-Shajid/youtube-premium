@@ -9,8 +9,8 @@ const Offer = () => {
                 <figure className="w-full h-32 flex justify-center items-center">
                     <Image src="https://www.gstatic.com/youtube/img/promos/growth/premium_lp2_small_feature_Ad-free_light_tablet_600x444.webp" width="100" height="100" alt="" className="object-contain" />
                 </figure>
-                <div className="card-body">
-                    <p>Ad-free so you can immerse in your favorite videos without interruption</p>
+                <div className="card-body ">
+                    <p className='text-base leading-[1.38rem]'>Ad-free so you can immerse in your favorite videos without interruption</p>
                     
                 </div>
             </div>
@@ -20,8 +20,8 @@ const Offer = () => {
                 <figure className="w-full h-32 flex justify-center items-center">
                     <Image src="https://www.gstatic.com/youtube/img/promos/growth/premium_lp2_small_feature_DownloadMultiple_light_tablet_600x508.webp" width="100" height="100" alt="" className="object-contain" />
                 </figure>
-                <div className="card-body">
-                    <p>Download videos to watch later when you’re offline or on the go</p>
+                <div className="card-body ">
+                    <p className='text-base leading-[1.38rem]'>Download videos to watch later when you’re offline or on the go</p>
                     
                 </div>
             </div>
@@ -31,8 +31,8 @@ const Offer = () => {
                 <figure className="w-full h-32 flex justify-center items-center">
                     <Image src="https://www.gstatic.com/youtube/img/promos/growth/premium_lp2_small_feature_PictureInPicture_light_tablet_600x764.webp" width="100" height="100" alt="" className="object-contain" />
                 </figure>
-                <div className="card-body">
-                    <p>Background play so you can watch while using other apps or with your screen locked</p>
+                <div className="card-body ">
+                    <p className='text-base leading-[1.38rem]'>Background play so you can watch while using other apps or with your screen locked</p>
                     
                 </div>
             </div>
@@ -42,8 +42,8 @@ const Offer = () => {
                 <figure className="w-full h-32 flex justify-center items-center">
                     <Image src="https://www.gstatic.com/youtube/img/promos/growth/premium_lp2_small_feature_UnlimitedMusic_light_tablet_600x505.webp" width="100" height="100" alt="" className="object-contain" />
                 </figure>
-                <div className="card-body">
-                    <p>Stream all the music you want to hear, ad-free on the YouTube Music app</p>
+                <div className="card-body ">
+                    <p className='text-base leading-[1.38rem]'>Stream all the music you want to hear, ad-free on the YouTube Music app</p>
                     
                 </div>
             </div>

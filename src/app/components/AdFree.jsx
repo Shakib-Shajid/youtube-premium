@@ -9,7 +9,7 @@ const AdFree = () => {
             <section className='flex flex-col md:flex-row gap-10 items-center justify-evenly w-[80%] mx-auto my-20 lg:my-36'>
                 <div className='md:w-[50%]'>
                     <h3 className='font-bold text-5xl'>Unlimited ad-free videos</h3>
-                    <p className='text-[#606060] my-5'>Immerse in more of your favorite videos without waiting for ads. Find helpful how-to’s, try new recipes, or work out with your favorite creators — all without any interruptions.</p>
+                    <p className='text-[#606060] my-5 text-lg leading-6'>Immerse in more of your favorite videos without waiting for ads. Find helpful how-to’s, try new recipes, or work out with your favorite creators — all without any interruptions.</p>
                 </div>
                 <div className='md:w-[50%]'>
                     <Image src="https://www.gstatic.com/youtube/img/promos/growth/premium_lp2_large_feature_AdFree_light_tablet_632x455.webp" width="1300" height="1200" alt="" />
@@ -21,7 +21,7 @@ const AdFree = () => {
                 
                 <div className='md:w-[50%]'>
                     <h3 className='font-bold text-5xl'>Enjoy videos offline</h3>
-                    <p className='text-[#606060] my-5'>Watch anytime, anywhere — download videos and watch them whenever, wherever, without the need for cell data or WiFi.</p>
+                    <p className='text-[#606060] my-5 text-lg leading-6'>Watch anytime, anywhere — download videos and watch them whenever, wherever, without the need for cell data or WiFi.</p>
                 </div>
 
                 <div className='md:w-[50%]'>
@@ -33,7 +33,7 @@ const AdFree = () => {
             <section className='flex flex-col md:flex-row gap-10 items-center justify-evenly w-[80%] mx-auto my-36'>
                 <div className='md:w-[50%]'>
                     <h3 className='font-bold text-5xl'>Background play</h3>
-                    <p className='text-[#606060] my-5'>Keep watching - whether the screen’s off or you’re using other apps, you can continue playing your videos in the background with zero interruptions.</p>
+                    <p className='text-[#606060] my-5 text-lg leading-6'>Keep watching - whether the screen’s off or you’re using other apps, you can continue playing your videos in the background with zero interruptions.</p>
                 </div>
 
                 <div className='md:w-[50%]'>

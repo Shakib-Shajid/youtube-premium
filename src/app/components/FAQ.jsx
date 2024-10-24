@@ -70,7 +70,7 @@ const FAQ = () => {
                 </div>
                 <div className="collapse mb-5">
                     <input type="checkbox" name="my-accordion-2" />
-                    <div className="collapse-title text-sm font-bold">Have other questions? <br />
+                    <div className="collapse-title text-sm font-bold leading-6">Have other questions? <br />
                         Visit the <span className='text-[#065FD4]'>YouTube Help Center</span></div>
 
                 </div>

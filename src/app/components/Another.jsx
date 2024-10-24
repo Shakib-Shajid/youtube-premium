@@ -12,7 +12,7 @@ const Another = () => {
                     }}>
                     <div className=' text-white  w-[80%] px-2 py-10' >
                         <Image src="/music.png" width="150" height="150" alt="" />
-                        <h3 className='text-3xl font-bold my-5'>An app made just for music</h3>
+                        <h3 className='text-4xl leading-snug font-bold my-5'>An app made just for music</h3>
                         <p className='text-base'>With YouTube Premium you get uninterrupted access to stream all you want on the YouTube Music app. Listen to the world’s largest music catalog with over 100 million songs, ad-free — enjoy personalized mixes, playlists to fit every mood, chart-toppers from around the world and more, all without ads.</p>
                     </div>
                 </div>

@@ -9,7 +9,7 @@ import FAQ from "./components/FAQ";
 export default function Home() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <Banner />
       <Offer />
       <Price />
