@@ -1,9 +1,8 @@
-import Image from "next/image";
-
+import Navbar from "../app/components/Navbar"
 export default function Home() {
   return (
     <>
-      <h3>This is youtube premium</h3>
+      <Navbar />
     </>
   );
 }
