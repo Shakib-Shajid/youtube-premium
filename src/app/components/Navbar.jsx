@@ -56,7 +56,8 @@ const Banner = () => {
                         d="M4 6h16M4 12h16M4 18h7" />
                 </svg>
                 {/* <a className="btn btn-ghost text-xl">daisyUI</a> */}
-                <Image src="/logo.png" width="100" height="100" alt="" className='md:ml-5' />
+                <Image src="/logo.png" width="300" height="100" alt="" className='w-28 h-8 md:ml-5 hidden md:grid' />
+                <Image src="/premium.png" width="300" height="100" alt="" className='md:ml-5 md:hidden' />
             </div>
             <div className="navbar-center hidden lg:flex w-2/4">
                 <label className="input input-bordered rounded-full flex items-center w-full overflow-hidden mr-5">
