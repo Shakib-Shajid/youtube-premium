@@ -8,12 +8,12 @@ const Banner = () => {
             style={{
                 backgroundImage: "url(https://www.gstatic.com/youtube/img/promos/growth/ytp_lp2_background_web_4098x2304.jpg)",
             }}>
-            <div className="hero-content text-center">
+            <div className="hero-content text-center mt-10">
                 <div className=" max-w-xl w-[90%] mx-auto md:w-full">
                     <div className='flex justify-center mb-5'>
                         <Image src="/premium.png" width="300" height="300" alt="" />
                     </div>
-                    <h1 className="mb-10 text-2xl md:text-6xl font-bold">
+                    <h1 className="mb-10 text-2xl md:text-[4rem] font-bold leading-tight">
                         All YouTube.
                         <span className="block my-5"></span>
                         No interruptions.
