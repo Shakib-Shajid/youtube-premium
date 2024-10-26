@@ -13,7 +13,7 @@ const Banner = () => {
                     <div className='flex justify-center mb-5'>
                         <Image src="/premium.png" width="300" height="300" alt="" />
                     </div>
-                    <h1 className="mb-10 text-2xl md:text-[4rem] font-bold leading-tight">
+                    <h1 className="mb-10 text-[2.3rem] md:text-[4rem] font-bold leading-7 md:leading-[1]">
                         All YouTube.
                         <span className="block my-5"></span>
                         No interruptions.
